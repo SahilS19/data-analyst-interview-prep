@@ -32,11 +32,6 @@ The goal of this repository is to help students and job seekers prepare for **Da
 - Pivot tables
 - Lookup functions
 
-### 4️⃣ Statistics
-- Probability distributions
-- Mean, median, mode
-- Hypothesis testing
-
 ### 5️⃣ Python
 - Pandas
 - GroupBy
